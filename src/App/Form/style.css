@@ -1,0 +1,36 @@
+.form {
+    display: block;
+    margin-top: 0em;
+}
+
+.form__header {
+    color: #300d06;
+    text-align: center;
+    font-size: 40px ;
+}
+
+.form__labelText {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.form__field {
+    border: 1px solid black;
+    width: 100%;
+    padding: 10px;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.form__button {
+    width: 100%;
+    color: rgb(71, 6, 19);
+    background-color: rgb(170, 189, 166);
+    max-width: 400px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 22px;
+}
+

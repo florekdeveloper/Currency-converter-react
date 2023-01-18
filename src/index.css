@@ -11,8 +11,9 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 80vh;
+  min-height: 100vh;
   background-image: url("background.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
