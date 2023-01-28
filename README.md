@@ -1,6 +1,6 @@
 # Currency-converter-React.js
 
-![Currency-converter-React.js](https://github.com/florekdeveloper/currency-converter-react/blob/c6e427835717de1c734681fa4278002e333fd716/public/AnimationCC1.gif)
+![Currency-converter-React.js](https://github.com/florekdeveloper/currency-converter-react/blob/a24884285306b4dc7810bf487698ec2e37f596d8/public/AnimationC1.gif)
 
 # Description
 
