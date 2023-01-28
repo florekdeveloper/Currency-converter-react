@@ -35,3 +35,11 @@ export const Button = styled.button`
     padding: 5px;
     font-size: 22px;
 `;
+
+export const Loading = styled.p`
+    color: teal;
+`;
+
+export const Failure = styled.p`
+    color: crimson;
+`;
