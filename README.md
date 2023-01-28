@@ -20,6 +20,9 @@ https://florekdeveloper.github.io/currency-converter-react/
 - @media queries
 - Immutability
 - React
+- Styled components
+- Hooks
+- Fetch, Async, Await
 
 ## Available Scripts
 
